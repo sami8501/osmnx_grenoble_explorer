@@ -1,2 +1,3 @@
 # osmnx_grenoble_explorer
-osmnx eploration of Grenoble town 
+osmnx exploration of Grenoble town
+Some OSMNX applications to explore Grenoble town Networks
